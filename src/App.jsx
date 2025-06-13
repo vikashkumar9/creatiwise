@@ -24,7 +24,6 @@ function App() {
       <FAQAccordion />
       <ScrollingIcons />
       <Footer />
-      {/* <Increase /> */}
     </>
   );
 }
