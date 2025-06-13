@@ -1,5 +1,4 @@
 import "./App.css";
-import Increase from "./components/Increase";
 import About from "./pages/About";
 import Blog from "./pages/Blog";
 import Experience from "./pages/Experience";
